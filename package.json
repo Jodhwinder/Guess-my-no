@@ -1,0 +1,14 @@
+{
+  "name": "guess",
+  "version": "1.0.0",
+  "description": "A javascript project",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Guess"
+  ],
+  "author": "Jodhwinder",
+  "license": "ISC"
+}
